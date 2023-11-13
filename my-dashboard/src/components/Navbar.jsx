@@ -22,7 +22,7 @@ const Navbar = () => {
 
       <ul className='hidden md:flex'>
         <li className='py-1 text-l w-[50%] hover:bg-gray-300 hover:text-[#0a192f] '>
-          <Link to='home' smooth={true} duration={500}>
+          <Link to='Home' smooth={true} duration={500}>
             Home
           </Link>
         </li>
